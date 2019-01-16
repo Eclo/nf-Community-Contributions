@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{11A8DD76-328B-46DF-9F39-F559912D0360}") = "Lsm6DSL", "Lsm6DSL\Lsm6DSL.nfproj", "{4464C755-E6BF-4FE0-A48A-467F25BA8E5C}"
+EndProject
+Project("{11A8DD76-328B-46DF-9F39-F559912D0360}") = "Lsm6DSL_Test", "Lsm6DSL_Test\Lsm6DSL_Test.nfproj", "{60E2B32E-34EA-49E7-B93F-5185F1CD8F66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4464C755-E6BF-4FE0-A48A-467F25BA8E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4464C755-E6BF-4FE0-A48A-467F25BA8E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4464C755-E6BF-4FE0-A48A-467F25BA8E5C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4464C755-E6BF-4FE0-A48A-467F25BA8E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4464C755-E6BF-4FE0-A48A-467F25BA8E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4464C755-E6BF-4FE0-A48A-467F25BA8E5C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{60E2B32E-34EA-49E7-B93F-5185F1CD8F66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E2B32E-34EA-49E7-B93F-5185F1CD8F66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60E2B32E-34EA-49E7-B93F-5185F1CD8F66}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{60E2B32E-34EA-49E7-B93F-5185F1CD8F66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60E2B32E-34EA-49E7-B93F-5185F1CD8F66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60E2B32E-34EA-49E7-B93F-5185F1CD8F66}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14C05A88-8062-4EA7-8BD8-6C493FAC0D83}
+	EndGlobalSection
+EndGlobal
